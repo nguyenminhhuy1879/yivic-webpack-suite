@@ -1,1 +1,3 @@
-/* Write custom js after this line */
+/* Main JS */
+
+import './_custom-page';
