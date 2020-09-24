@@ -107,7 +107,6 @@ module.exports = {
             suppressSuccess: true
         }),
     ],
-
     optimization: {
         minimizer: [
             // enable the js minification plugin
